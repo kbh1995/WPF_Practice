@@ -26,3 +26,5 @@ C:\Users\Infogram\Documents\GitHub\WPF_Practice\PracticeProject2\PracticeProject
 C:\Users\Infogram\Documents\GitHub\WPF_Practice\PracticeProject2\PracticeProject2\obj\Debug\net8.0-windows\Discussion.g.cs
 C:\Users\Infogram\Documents\GitHub\WPF_Practice\PracticeProject2\PracticeProject2\obj\Debug\net8.0-windows\Discussion.baml
 C:\Users\Infogram\Documents\GitHub\WPF_Practice\PracticeProject2\PracticeProject2\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Infogram\Documents\GitHub\WPF_Practice\PracticeProject2\PracticeProject2\obj\Debug\net8.0-windows\ProductsManagement.g.cs
+C:\Users\Infogram\Documents\GitHub\WPF_Practice\PracticeProject2\PracticeProject2\obj\Debug\net8.0-windows\ProductsManagement.baml
