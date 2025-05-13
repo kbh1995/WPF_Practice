@@ -1,5 +1,5 @@
 ﻿PracticeProject2
-1.0.0.0
+
 
 winexe
 C#
@@ -8,13 +8,13 @@ C:\Users\Infogram\Documents\GitHub\WPF_Practice\PracticeProject2\PracticeProject
 PracticeProject2
 none
 false
-TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\Infogram\Documents\GitHub\WPF_Practice\PracticeProject2\PracticeProject2\App.xaml
 21339946545
 
-71980987515
+5913990488
 198-211836927
 Contact.xaml;MainWindow.xaml;
 
-True
+False
 

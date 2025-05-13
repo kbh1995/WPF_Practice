@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Infogram\\source\\repos\\PracticeProject2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5E7EFE2C-7382-4BF1-81E1-C52762E6E459}|PracticeProject2\\PracticeProject2.csproj|c:\\users\\infogram\\source\\repos\\practiceproject2\\practiceproject2\\contact.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E7EFE2C-7382-4BF1-81E1-C52762E6E459}|PracticeProject2\\PracticeProject2.csproj|solutionrelative:practiceproject2\\contact.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5E7EFE2C-7382-4BF1-81E1-C52762E6E459}|PracticeProject2\\PracticeProject2.csproj|c:\\users\\infogram\\source\\repos\\practiceproject2\\practiceproject2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5E7EFE2C-7382-4BF1-81E1-C52762E6E459}|PracticeProject2\\PracticeProject2.csproj|solutionrelative:practiceproject2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -23,6 +27,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Contact.xaml",
+              "DocumentMoniker": "C:\\Users\\Infogram\\source\\repos\\PracticeProject2\\PracticeProject2\\Contact.xaml",
+              "RelativeDocumentMoniker": "PracticeProject2\\Contact.xaml",
+              "ToolTip": "C:\\Users\\Infogram\\source\\repos\\PracticeProject2\\PracticeProject2\\Contact.xaml",
+              "RelativeToolTip": "PracticeProject2\\Contact.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T04:17:39.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Infogram\\source\\repos\\PracticeProject2\\PracticeProject2\\MainWindow.xaml",
               "RelativeDocumentMoniker": "PracticeProject2\\MainWindow.xaml",
@@ -34,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Infogram\\source\\repos\\PracticeProject2\\PracticeProject2\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "PracticeProject2\\MainWindow.xaml.cs",
@@ -42,8 +58,7 @@
               "RelativeToolTip": "PracticeProject2\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T02:06:33.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T02:06:33.129Z"
             }
           ]
         }
