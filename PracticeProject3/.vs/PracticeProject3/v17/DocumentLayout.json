@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Infogram\\source\\repos\\PracticeProject3\\",
+  "WorkspaceRootPath": "C:\\Users\\Infogram\\Documents\\GitHub\\WPF_Practice\\PracticeProject3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1C33410-B4C2-4213-8BC2-BE1662B8ACBE}|PracticeProject3\\PracticeProject3.csproj|c:\\users\\infogram\\source\\repos\\practiceproject3\\practiceproject3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B1C33410-B4C2-4213-8BC2-BE1662B8ACBE}|PracticeProject3\\PracticeProject3.csproj|c:\\users\\infogram\\documents\\github\\wpf_practice\\practiceproject3\\practiceproject3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B1C33410-B4C2-4213-8BC2-BE1662B8ACBE}|PracticeProject3\\PracticeProject3.csproj|solutionrelative:practiceproject3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1C33410-B4C2-4213-8BC2-BE1662B8ACBE}|PracticeProject3\\PracticeProject3.csproj|c:\\users\\infogram\\source\\repos\\practiceproject3\\practiceproject3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B1C33410-B4C2-4213-8BC2-BE1662B8ACBE}|PracticeProject3\\PracticeProject3.csproj|c:\\users\\infogram\\documents\\github\\wpf_practice\\practiceproject3\\practiceproject3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1C33410-B4C2-4213-8BC2-BE1662B8ACBE}|PracticeProject3\\PracticeProject3.csproj|solutionrelative:practiceproject3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Infogram\\source\\repos\\PracticeProject3\\PracticeProject3\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Infogram\\Documents\\GitHub\\WPF_Practice\\PracticeProject3\\PracticeProject3\\MainWindow.xaml",
               "RelativeDocumentMoniker": "PracticeProject3\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Infogram\\source\\repos\\PracticeProject3\\PracticeProject3\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Infogram\\Documents\\GitHub\\WPF_Practice\\PracticeProject3\\PracticeProject3\\MainWindow.xaml",
               "RelativeToolTip": "PracticeProject3\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-05-13T02:19:37.552Z",
@@ -36,14 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Infogram\\source\\repos\\PracticeProject3\\PracticeProject3\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Infogram\\Documents\\GitHub\\WPF_Practice\\PracticeProject3\\PracticeProject3\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "PracticeProject3\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Infogram\\source\\repos\\PracticeProject3\\PracticeProject3\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Infogram\\Documents\\GitHub\\WPF_Practice\\PracticeProject3\\PracticeProject3\\MainWindow.xaml.cs",
               "RelativeToolTip": "PracticeProject3\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T02:19:37.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T02:19:37.438Z"
             }
           ]
         }

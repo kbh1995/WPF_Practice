@@ -9,9 +9,9 @@
       Title="Contact">
 
     <Grid>
-        <TextBlock HorizontalAlignment="Left" Height="71" Margin="31,70,0,0" TextWrapping="Wrap" Text="Sender" VerticalAlignment="Top" Width="119"/>
-        <TextBlock HorizontalAlignment="Left" Height="71" Margin="31,174,0,0" TextWrapping="Wrap" Text="Message" VerticalAlignment="Top" Width="119"/>
-        <TextBox HorizontalAlignment="Left" Margin="425,106,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="294" Height="52"/>
-        <TextBox TextWrapping="Wrap" Margin="425,158,81,67"/>
+        <TextBlock HorizontalAlignment="Left" Height="71" Margin="31,70,0,0" TextWrapping="Wrap" Text="Sender" VerticalAlignment="Top" Width="119" FontSize="36"/>
+        <TextBlock HorizontalAlignment="Left" Height="71" Margin="31,174,0,0" TextWrapping="Wrap" Text="Message" VerticalAlignment="Top" Width="220" FontSize="36"/>
+        <TextBox HorizontalAlignment="Left" Margin="441,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="294" Height="52"/>
+        <TextBox TextWrapping="Wrap" Margin="441,174,65,51"/>
     </Grid>
 </Page>

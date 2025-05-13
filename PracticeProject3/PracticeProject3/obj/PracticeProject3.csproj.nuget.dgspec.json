@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Infogram\\source\\repos\\PracticeProject3\\PracticeProject3\\PracticeProject3.csproj": {}
+    "C:\\Users\\Infogram\\Documents\\GitHub\\WPF_Practice\\PracticeProject3\\PracticeProject3\\PracticeProject3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Infogram\\source\\repos\\PracticeProject3\\PracticeProject3\\PracticeProject3.csproj": {
+    "C:\\Users\\Infogram\\Documents\\GitHub\\WPF_Practice\\PracticeProject3\\PracticeProject3\\PracticeProject3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Infogram\\source\\repos\\PracticeProject3\\PracticeProject3\\PracticeProject3.csproj",
+        "projectUniqueName": "C:\\Users\\Infogram\\Documents\\GitHub\\WPF_Practice\\PracticeProject3\\PracticeProject3\\PracticeProject3.csproj",
         "projectName": "PracticeProject3",
-        "projectPath": "C:\\Users\\Infogram\\source\\repos\\PracticeProject3\\PracticeProject3\\PracticeProject3.csproj",
+        "projectPath": "C:\\Users\\Infogram\\Documents\\GitHub\\WPF_Practice\\PracticeProject3\\PracticeProject3\\PracticeProject3.csproj",
         "packagesPath": "C:\\Users\\Infogram\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Infogram\\source\\repos\\PracticeProject3\\PracticeProject3\\obj\\",
+        "outputPath": "C:\\Users\\Infogram\\Documents\\GitHub\\WPF_Practice\\PracticeProject3\\PracticeProject3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

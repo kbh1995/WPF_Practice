@@ -21,3 +21,5 @@ C:\Users\Infogram\Documents\GitHub\WPF_Practice\PracticeProject2\PracticeProject
 C:\Users\Infogram\Documents\GitHub\WPF_Practice\PracticeProject2\PracticeProject2\obj\Debug\net8.0-windows\PracticeProject2.pdb
 C:\Users\Infogram\Documents\GitHub\WPF_Practice\PracticeProject2\PracticeProject2\obj\Debug\net8.0-windows\PracticeProject2.genruntimeconfig.cache
 C:\Users\Infogram\Documents\GitHub\WPF_Practice\PracticeProject2\PracticeProject2\obj\Debug\net8.0-windows\ref\PracticeProject2.dll
+C:\Users\Infogram\Documents\GitHub\WPF_Practice\PracticeProject2\PracticeProject2\obj\Debug\net8.0-windows\Menu.g.cs
+C:\Users\Infogram\Documents\GitHub\WPF_Practice\PracticeProject2\PracticeProject2\obj\Debug\net8.0-windows\Menu.baml

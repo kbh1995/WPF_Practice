@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Infogram\\Documents\\GitHub\\WPF_Practice\\PracticeProject2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5E7EFE2C-7382-4BF1-81E1-C52762E6E459}|PracticeProject2\\PracticeProject2.csproj|c:\\users\\infogram\\documents\\github\\wpf_practice\\practiceproject2\\practiceproject2\\contact.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E7EFE2C-7382-4BF1-81E1-C52762E6E459}|PracticeProject2\\PracticeProject2.csproj|solutionrelative:practiceproject2\\contact.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7EFE2C-7382-4BF1-81E1-C52762E6E459}|PracticeProject2\\PracticeProject2.csproj|c:\\users\\infogram\\documents\\github\\wpf_practice\\practiceproject2\\practiceproject2\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E7EFE2C-7382-4BF1-81E1-C52762E6E459}|PracticeProject2\\PracticeProject2.csproj|solutionrelative:practiceproject2\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5E7EFE2C-7382-4BF1-81E1-C52762E6E459}|PracticeProject2\\PracticeProject2.csproj|c:\\users\\infogram\\documents\\github\\wpf_practice\\practiceproject2\\practiceproject2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5E7EFE2C-7382-4BF1-81E1-C52762E6E459}|PracticeProject2\\PracticeProject2.csproj|solutionrelative:practiceproject2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E7EFE2C-7382-4BF1-81E1-C52762E6E459}|PracticeProject2\\PracticeProject2.csproj|c:\\users\\infogram\\documents\\github\\wpf_practice\\practiceproject2\\practiceproject2\\contact.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5E7EFE2C-7382-4BF1-81E1-C52762E6E459}|PracticeProject2\\PracticeProject2.csproj|solutionrelative:practiceproject2\\contact.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{5E7EFE2C-7382-4BF1-81E1-C52762E6E459}|PracticeProject2\\PracticeProject2.csproj|c:\\users\\infogram\\documents\\github\\wpf_practice\\practiceproject2\\practiceproject2\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7EFE2C-7382-4BF1-81E1-C52762E6E459}|PracticeProject2\\PracticeProject2.csproj|solutionrelative:practiceproject2\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E7EFE2C-7382-4BF1-81E1-C52762E6E459}|PracticeProject2\\PracticeProject2.csproj|c:\\users\\infogram\\documents\\github\\wpf_practice\\practiceproject2\\practiceproject2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +30,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Infogram\\Documents\\GitHub\\WPF_Practice\\PracticeProject2\\PracticeProject2\\Menu.xaml.cs",
+              "RelativeDocumentMoniker": "PracticeProject2\\Menu.xaml.cs",
+              "ToolTip": "C:\\Users\\Infogram\\Documents\\GitHub\\WPF_Practice\\PracticeProject2\\PracticeProject2\\Menu.xaml.cs",
+              "RelativeToolTip": "PracticeProject2\\Menu.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T04:50:02.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Menu.xaml",
+              "DocumentMoniker": "C:\\Users\\Infogram\\Documents\\GitHub\\WPF_Practice\\PracticeProject2\\PracticeProject2\\Menu.xaml",
+              "RelativeDocumentMoniker": "PracticeProject2\\Menu.xaml",
+              "ToolTip": "C:\\Users\\Infogram\\Documents\\GitHub\\WPF_Practice\\PracticeProject2\\PracticeProject2\\Menu.xaml",
+              "RelativeToolTip": "PracticeProject2\\Menu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T04:48:52.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Contact.xaml",
               "DocumentMoniker": "C:\\Users\\Infogram\\Documents\\GitHub\\WPF_Practice\\PracticeProject2\\PracticeProject2\\Contact.xaml",
               "RelativeDocumentMoniker": "PracticeProject2\\Contact.xaml",
@@ -38,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Infogram\\Documents\\GitHub\\WPF_Practice\\PracticeProject2\\PracticeProject2\\MainWindow.xaml",
               "RelativeDocumentMoniker": "PracticeProject2\\MainWindow.xaml",
@@ -50,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Infogram\\Documents\\GitHub\\WPF_Practice\\PracticeProject2\\PracticeProject2\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "PracticeProject2\\MainWindow.xaml.cs",
